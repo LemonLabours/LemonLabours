@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="your-URL-here/lemon.png" alt="🍋" width="30" /> 
+  <img src="https://dribbble.com/shots/11073690-Lemon-Goofy" alt="🍋" width="30" /> 
   Hi, I'm Lama Alyousef
-  <img src="your-URL-here/lemon.png" alt="🍋" width="30" />
+  <img src="https://dribbble.com/shots/11073690-Lemon-Goofy" alt="🍋" width="30" />
 </h1>
 
 <h3 align="center">An enthusiastic developer learning Flutter & SwiftUI</h3>
@@ -20,7 +20,7 @@
 - 🌱 I’m deeply diving into **Flutter & SwiftUI**
 - 📫 Feel free to reach me at **lemon.labour@gmail.com**
 
-<img align="right" src="your-URL-here/coding-illustration.png" alt="coding illustration" width="400" />
+<img align="right" src="https://dribbble.com/shots/11073690-Lemon-Goofy" alt="coding illustration" width="400" />
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -34,11 +34,11 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  <img src="https://dribbble.com/shots/11073690-Lemon-Goofy" alt="lemon" width="40" height="40"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemonlabours&show_icons=true&locale=en&layout=compact" alt="lemonlabours" />
 </p>
-
 
 
