@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hi, I'm Lama Alyousef</h1>
+<h1 align="center">
+  <img src="your-URL-here/lemon.png" alt="🍋" width="30" /> 
+  Hi, I'm Lama Alyousef
+  <img src="your-URL-here/lemon.png" alt="🍋" width="30" />
+</h1>
 
 <h3 align="center">An enthusiastic developer learning Flutter & SwiftUI</h3>
 
@@ -16,11 +20,11 @@
 - 🌱 I’m deeply diving into **Flutter & SwiftUI**
 - 📫 Feel free to reach me at **lemon.labour@gmail.com**
 
+<img align="right" src="your-URL-here/coding-illustration.png" alt="coding illustration" width="400" />
 
+<h3 align="left">Languages and Tools:</h3>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
