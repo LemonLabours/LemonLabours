@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img src="https://dribbble.com/shots/11073690-Lemon-Goofy" alt="🍋" width="30" /> 
-  Hi, I'm Lama Alyousef
-  <img src="https://dribbble.com/shots/11073690-Lemon-Goofy" alt="🍋" width="30" />
-</h1>
+<h1 align="center">👋 Hi, I'm Lama Alyousef</h1>
 
 <h3 align="center">An enthusiastic developer learning Flutter & SwiftUI</h3>
 
@@ -18,13 +14,12 @@
 
 - 🔭 I’m currently working on an amazing app called **Eidkum**
 - 🌱 I’m deeply diving into **Flutter & SwiftUI**
+- 🤝 Open to collaborate on projects to foster learning and growth
 - 📫 Feel free to reach me at **lemon.labour@gmail.com**
 
-<img align="right" src="https://dribbble.com/shots/11073690-Lemon-Goofy" alt="coding illustration" width="400" />
+<h3 align="center">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -34,11 +29,6 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  <img src="https://dribbble.com/shots/11073690-Lemon-Goofy" alt="lemon" width="40" height="40"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemonlabours&show_icons=true&locale=en&layout=compact" alt="lemonlabours" />
-</p>
+</p> 
 
 
