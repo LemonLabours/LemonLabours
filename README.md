@@ -16,16 +16,7 @@
 - 🌱 I’m deeply diving into **Flutter & SwiftUI**
 - 📫 Feel free to reach me at **lemon.labour@gmail.com**
 
-<h3 align="center">Connect with me</h3>
 
-<p align="center">
-  <a href="https://twitter.com/lamaialyousef" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lamaialyousef" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/lama-alyousef-b43231262" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lama-alyousef-b43231262" height="30" width="40" />
-  </a>
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -45,11 +36,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lemonlabours&show_icons=true&locale=en&layout=compact" alt="lemonlabours" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lemonlabours&show_icons=true&locale=en" alt="lemonlabours" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lemonlabours&" alt="lemonlabours" />
-</p>
 
