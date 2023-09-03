@@ -16,7 +16,7 @@
 - 🌱 I’m deeply diving into **Flutter & SwiftUI**
 - 🤝 Open to collaborate on projects to foster learning and growth
 - 📫 Feel free to reach me at **lemon.labour@gmail.com**
-- 🔗 [Have a look at my Portfolio Website that was created by Flutter](https://lama-alyousef.com/#/)
+- 🔗 [Have a look at my Portfolio Website that was created with Flutter](https://lama-alyousef.com/#/)
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -30,6 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="bloc" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 </p> 
 
