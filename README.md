@@ -12,7 +12,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on an amazing app called **Eidkum**
+- 🔭 I’m currently working on an amazing app called **عناية آمنة**
 - 🌱 I’m deeply diving into **Flutter & SwiftUI**
 - 🤝 Open to collaborate on projects to foster learning and growth
 - 📫 Feel free to reach me at **lemon.labour@gmail.com**
