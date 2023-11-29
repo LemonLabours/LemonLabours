@@ -12,12 +12,10 @@
   </a> 
 </p>
 
-
 - 🌱 I’m deeply diving into **Flutter & SwiftUI**
 - 🤝 Open to collaborate on projects to foster learning and growth
 - 📫 Feel free to reach me at **lemon.labour@gmail.com**
 - 🔗 [Have a look at my Portfolio Website that was created with Flutter](https://lama-alyousef.com/#/)
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -34,6 +32,10 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".net" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt=".net" width="40" height="40"/>
 </p>
+
 
 
