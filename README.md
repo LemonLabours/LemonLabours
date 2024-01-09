@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Lama Alyousef</h1>
 
-<h3 align="center">An enthusiastic developer learning Flutter & SwiftUI</h3>
+<h3 align="center">An enthusiastic developer learning Flutter & SwiftUI & Next.js</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=lemonlabours&label=Profile%20Views&color=0e75b6&style=flat" alt="lemonlabours" /> 
@@ -12,7 +12,6 @@
   </a> 
 </p>
 
-- 🌱 I’m deeply diving into **Flutter & SwiftUI**
 - 🤝 Open to collaborate on projects to foster learning and growth
 - 📫 Feel free to reach me at **lemon.labour@gmail.com**
 - 🔗 [Have a look at my Portfolio Website that was created with Flutter](https://lama-alyousef.com/#/)
